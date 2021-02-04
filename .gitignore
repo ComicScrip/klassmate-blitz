@@ -1,0 +1,5 @@
+node_modules
+.blitz
+.env.local
+.env.test.local
+.blitz-console-history
